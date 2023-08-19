@@ -1,0 +1,535 @@
+.cartcontainer {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .cartpage4 {
+    width: 430px;
+    height: 1213px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .cartellipse4 {
+    top: 32px;
+    left: 370px;
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    border-color: rgba(97, 184, 70, 1);
+  }
+  .carttext {
+    top: 37px;
+    left: 42px;
+    color: rgba(2, 79, 157, 1);
+    width: 116px;
+    height: auto;
+    position: absolute;
+    font-size: 35px;
+    font-style:bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 300;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .carttext02 {
+    top: 87px;
+    left: 42px;
+    color: rgba(97, 184, 70, 1);
+    width: 82px;
+    height: auto;
+    position: absolute;
+    font-size: 28px;
+    font-style: Semi Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .cartimage1 {
+    top: 1112px;
+    left: 93px;
+    width: 64px;
+    height: 56px;
+    position: absolute;
+  }
+  .carttext04 {
+    top: 438px;
+    left: 343px;
+    color: rgba(0, 0, 0, 1);
+    width: 63px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .carttext06 {
+    top: 313px;
+    left: 343px;
+    color: rgba(0, 0, 0, 1);
+    width: 63px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .carttext08 {
+    top: 188px;
+    left: 343px;
+    color: rgba(0, 0, 0, 1);
+    width: 63px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .carttext10 {
+    top: 188px;
+    left: 244px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .carttext11 {
+    top: 313px;
+    left: 244px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .carttext12 {
+    top: 438px;
+    left: 242px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .carttext13 {
+    top: 313px;
+    left: 277px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .carttext14 {
+    top: 188px;
+    left: 277px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .cartframe4 {
+    top: 313px;
+    left: 252px;
+    width: 22px;
+    height: 25px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .cartrectangle11 {
+    top: 7px;
+    left: 0px;
+    width: 22px;
+    height: 11px;
+    position: absolute;
+    border-radius: 2px;
+  }
+  .carttext15 {
+    left: 9px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .carttext16 {
+    top: 438px;
+    left: 275px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .cartframe1 {
+    top: 188px;
+    left: 252px;
+    width: 22px;
+    height: 25px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .cartrectangle111 {
+    top: 7px;
+    left: 0px;
+    width: 22px;
+    height: 11px;
+    position: absolute;
+    border-radius: 2px;
+  }
+  .carttext17 {
+    left: 9px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .cartframe5 {
+    top: 438px;
+    left: 250px;
+    width: 22px;
+    height: 25px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .cartrectangle112 {
+    top: 7px;
+    left: 0px;
+    width: 22px;
+    height: 11px;
+    position: absolute;
+    border-radius: 2px;
+  }
+  .carttext18 {
+    left: 9px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .cartrectangle12 {
+    top: 166px;
+    left: 46px;
+    width: 135px;
+    height: 79px;
+    position: absolute;
+    border-radius: 15px;
+  }
+  .cartrectangle13 {
+    top: 286px;
+    left: 46px;
+    width: 135px;
+    height: 79px;
+    position: absolute;
+    border-radius: 15px;
+  }
+  .cartrectangle14 {
+    top: 411px;
+    left: 46px;
+    width: 135px;
+    height: 79px;
+    position: absolute;
+    border-radius: 15px;
+  }
+  .cartline7 {
+    top: 538px;
+    left: 51px;
+    width: 328px;
+    height: 1px;
+    position: absolute;
+    box-shadow: 2px 4px 4px 0px rgba(191, 188, 188, 1) ;
+  }
+  .carttext19 {
+    top: 190px;
+    left: 188px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 8px;
+    font-style: Semi Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .carttext21 {
+    top: 313px;
+    left: 186px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 8px;
+    font-style: Semi Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .carttext23 {
+    top: 438px;
+    left: 188px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 8px;
+    font-style: Semi Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .cartimage2 {
+    top: 1112px;
+    left: 163px;
+    width: 79px;
+    height: 56px;
+    position: absolute;
+  }
+  .cartimage9 {
+    top: 1112px;
+    left: 263px;
+    width: 79px;
+    height: 56px;
+    position: absolute;
+  }
+  .cartrectangle10 {
+    top: 969px;
+    left: 36px;
+    width: 358px;
+    height: 72px;
+    position: absolute;
+    border-radius: 15px;
+  }
+  .carttext25 {
+    top: 993px;
+    left: 137px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 25px;
+    font-style: Semi Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .carttext27 {
+    top: 563px;
+    left: 42px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Semi Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .carttext29 {
+    top: 563px;
+    left: 328px;
+    color: rgba(97, 184, 70, 1);
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Semi Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .cartline1 {
+    top: 649px;
+    left: 46px;
+    width: 248px;
+    height: 1px;
+    position: absolute;
+  }
+  .carttext31 {
+    top: 624px;
+    left: 46px;
+    color: rgba(212, 211, 211, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+    border-style: none;
+  }
+  .cartline2 {
+    top: 710px;
+    left: 46px;
+    width: 248px;
+    height: 1px;
+    position: absolute;
+  }
+  .carttext33 {
+    top: 685px;
+    left: 46px;
+    color: rgba(212, 211, 211, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+    border-style: none;
+  }
+  .carttext35 {
+    border-style: none;
+    top: 747px;
+    left: 46px;
+    color: rgba(212, 211, 211, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .cartline3 {
+    top: 771px;
+    left: 46px;
+    width: 248px;
+    height: 1px;
+    position: absolute;
+  }
+  .carttext37 {
+    border-style: none;
+    top: 805px;
+    left: 46px;
+    color: rgba(212, 211, 211, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: 25px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .cartline5 {
+    top: 900px;
+    left: 46px;
+    width: 248px;
+    height: 1px;
+    position: absolute;
+  }
